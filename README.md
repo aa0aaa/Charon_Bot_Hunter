@@ -14,11 +14,7 @@ pkg install screen
 
 git clone https://github.com/aa0aaa/Charon_Bot_Hunter
 
-ls
-
-cd HUNTING
-
-ls
+cd Charon_Bot_Hunter
 
 screen -S bot
 
