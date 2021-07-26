@@ -6,7 +6,7 @@ To Run These Bot in Termux Use These
 
 ---------------------
 
-install git
+pkg install git
 
 pkg install php
 
