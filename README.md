@@ -12,7 +12,7 @@ pkg install php
 
 pkg install screen
 
-git clone 
+git clone https://github.com/aa0aaa/Charon_Bot_Hunter
 
 ls
 
@@ -34,7 +34,7 @@ And later
 
 3- Type (/charon) to start
 
-4- And Enjoy Your 
+4- And Enjoy Your Time
 
 ---------------------
 
